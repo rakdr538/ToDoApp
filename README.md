@@ -1,5 +1,5 @@
 # ToDoApp
-Assa Abloy programming task
+Assa Abloy programming task using Spring Data Rest API.
 
 http://localhost:8080/swagger-ui/index.html
 
